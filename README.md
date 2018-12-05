@@ -1,2 +1,2 @@
 # NewsReader
-Sample app created leveraging apis from https://newsapi.org/
+Sample app created leveraging apis from WSJ
